@@ -1,0 +1,22 @@
+svg{
+    width: 60px;
+    padding: 5px;
+}
+
+.cart{
+    position: relative;
+}
+
+.badge{
+    position: absolute;
+    left: 35%;
+    background: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 2px;
+}
